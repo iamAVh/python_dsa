@@ -13,8 +13,8 @@ its complexity rather than just passing tests.
 
 ## Branches
 
-- **`main`** — reviewed, cleaned-up work
-- **`daily`** — everyday practice commits
+- **`main`** — default branch; every session's work lands here
+- **`daily`** — working branch for in-progress practice, fast-forwarded into `main`
 
 ## Environment
 
