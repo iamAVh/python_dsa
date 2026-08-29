@@ -26,6 +26,7 @@ Numbered so they read in order. Each folder has its own README with a topic chec
 |--------|----------|
 | [`practice/hackerrank/`](practice/hackerrank/) | HackerRank Python track, organised by its domains |
 | [`practice/problem_solving/`](practice/problem_solving/) | Topic-wise DSA practice grouped by technique |
+| [`python_practice_questions/`](python_practice_questions/) | 44-problem set-based question bank, worked through set by set |
 
 Every solution opens with a docstring stating the problem, the approach, and
 its time/space complexity — see
