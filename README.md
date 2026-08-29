@@ -54,5 +54,4 @@ Python 3.12.11
 
 ## Branches
 
-- **`main`** — default branch; each session's work lands here
-- **`daily`** — working branch, fast-forwarded into `main` after every session
+Single branch — **`main`**. Each practice session is one commit.
